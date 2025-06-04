@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21803b42-8206-41da-ac2f-89b2f07bce07" name="Changes" comment="" />
+    <list default="true" id="21803b42-8206-41da-ac2f-89b2f07bce07" name="Changes" comment="Resource added">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/claimmng.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tmcitsele"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tmcitsele/ClaimMNGproj.git",
+    "accountId": "fcda90cf-f792-417c-b17f-8a09b927a2ec"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -46,6 +60,15 @@
       <updated>1749018924332</updated>
       <workItem from="1749018925551" duration="2725000" />
     </task>
+    <task id="LOCAL-00001" summary="Resource added">
+      <option name="closed" value="true" />
+      <created>1749029497506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749029497506</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resource added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resource added" />
   </component>
 </project>
